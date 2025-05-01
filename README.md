@@ -29,7 +29,7 @@ I'm especially interested in backend systems, AI/LLM infrastructure, developer t
 
 ## 🔗 Featured Projects
 
-### ✨ [SelfAI](https://selfai.tech)  
+### ✨ [SelfAI](https://www.selfai.tech)  
 > Document-trained, embeddable AI widget  
 Tech: Python · Typescript · FastAPI · Pinecone · LangChain · RAG · Next.js · TailwindCSS  
 ➡️ Live on: [selfai.tech](https://www.selfai.tech)
@@ -42,12 +42,13 @@ Tech: Python · TensorFlow · OpenCV · gTTS · Raspberry Pi
 - Awarded **Best IoT Project** at IoT Expo 2021  
 🎥 [Demo on YouTube](https://www.youtube.com/watch?v=GX_AfxdekKQ&ab_channel=Ojash)
 
-### 💬 [ChatAppX]([https://github.com/ojasggg/ChatAppX](https://github.com/ojasggg/Chat_Application))  
+### 💬 [ChatAppX](https://www.github.com/ojasggg/Chat_Application)  
 > Real-time chat app with WebSockets + OAuth  
 Tech: Typescript · Node.js · Express · Next.js · MongoDB  
 - Google OAuth login + secure chat sessions  
 - Fully real-time via WebSocket connection  
 - Designed with minimal, accessible UI
+- Live on: [https://www.github.com/ojasggg/Chat_Application](https://www.github.com/ojasggg/Chat_Application)
 
 ---
 
