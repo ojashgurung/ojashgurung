@@ -42,7 +42,7 @@ Tech: Python · TensorFlow · OpenCV · gTTS · Raspberry Pi
 - Awarded **Best IoT Project** at IoT Expo 2021  
 🎥 [Demo on YouTube](https://www.youtube.com/watch?v=GX_AfxdekKQ&ab_channel=Ojash)
 
-### 💬 [ChatAppX](https://github.com/ojasggg/ChatAppX)  
+### 💬 [ChatAppX]([https://github.com/ojasggg/ChatAppX](https://github.com/ojasggg/Chat_Application))  
 > Real-time chat app with WebSockets + OAuth  
 Tech: Typescript · Node.js · Express · Next.js · MongoDB  
 - Google OAuth login + secure chat sessions  
