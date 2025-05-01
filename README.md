@@ -1,8 +1,8 @@
 # Hi, I'm Ojash Gurung 👋
 
 🎓 International MS CS student @ Monroe University  
-🧠 Software Engineer (Backend + AI) | Builder of [selfai.tech](https://www.selfai.tech)
-🌏 Originally from Nepal | Currently in New York  
+🧠 Software Engineer (Backend + AI) | Builder of [SelfAI](https://www.selfai.tech)
+<br>🌏 Originally from Nepal | Currently in New York  
 💼 Open to internships and full-time SWE opportunities
 
 ---
