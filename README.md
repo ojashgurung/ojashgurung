@@ -1,7 +1,7 @@
 # Hi, I'm Ojash Gurung 👋
 
 🎓 International MS CS student @ Monroe University  
-🧠 Software Engineer (Backend + AI) | Builder of [SelfAI](https://selfai.tech)  
+🧠 Software Engineer (Backend + AI) | Builder of <a href="https://www.selfai.tech" target="_blank" rel="noopener noreferrer">SelfAI</a>  
 🌏 Originally from Nepal | Currently in New York  
 💼 Open to internships and full-time SWE opportunities
 
@@ -11,7 +11,7 @@
 
 I’m a backend-focused software engineer and AI enthusiast, passionate about building useful tools with strong architecture and a touch of creativity.
 
-I recently built [**SelfAI**](https://www.selfai.tech) — a document-trained AI widget that helps people showcase their story through a personalized, embeddable chatbot. It’s live, running on my portfolio, and being used today.
+I recently built <a href="https://www.selfai.tech" target="_blank" rel="noopener noreferrer">**SelfAI**</a> — a document-trained AI widget that helps people showcase their story through a personalized, embeddable chatbot. It’s live, running on my portfolio, and being used today.
 
 I'm especially interested in backend systems, AI/LLM infrastructure, developer tools, and products that empower others to express themselves through code.
 
@@ -32,7 +32,7 @@ I'm especially interested in backend systems, AI/LLM infrastructure, developer t
 ### ✨ [SelfAI](https://www.selfai.tech)  
 > Document-trained, embeddable AI widget  
 Tech: Python · Typescript · FastAPI · Pinecone · LangChain · RAG · Next.js · TailwindCSS  
-➡️ Live on: [selfai.tech](https://www.selfai.tech)
+➡️ Live on: <a href="https://www.selfai.tech" target="_blank" rel="noopener noreferrer">selfai.tech</a>
 
 ### 🦾 Smart Glasses for the Visually Impaired  
 > An IoT + AI-powered wearable that assists blind users through object detection and voice feedback.  
@@ -40,15 +40,15 @@ Tech: Python · TensorFlow · OpenCV · gTTS · Raspberry Pi
 - Built a real-time object recognition pipeline using computer vision  
 - Translates detections into spoken feedback using gTTS  
 - Awarded **Best IoT Project** at IoT Expo 2021  
-🎥 [Demo on YouTube](https://www.youtube.com/watch?v=GX_AfxdekKQ&ab_channel=Ojash)
+🎥 <a href="https://www.youtube.com/watch?v=GX_AfxdekKQ&ab_channel=Ojash" target="_blank" rel="noopener noreferrer">Demo on YouTube</a>
 
-### 💬 [ChatAppX](https://www.github.com/ojasggg/Chat_Application)  
+### 💬 <a href="https://www.github.com/ojasggg/Chat_Application" target="_blank" rel="noopener noreferrer">ChatAppX</a>
 > Real-time chat app with WebSockets + OAuth  
 Tech: Typescript · Node.js · Express · Next.js · MongoDB  
 - Google OAuth login + secure chat sessions  
 - Fully real-time via WebSocket connection  
 - Designed with minimal, accessible UI
-- Live on: [https://www.github.com/ojasggg/Chat_Application](https://www.github.com/ojasggg/Chat_Application)
+- Live on: <a href="https://www.github.com/ojasggg/Chat_Application" target="_blank" rel="noopener noreferrer">ChatAppX</a>
 
 ---
 
