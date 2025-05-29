@@ -11,17 +11,17 @@
 
 I’m a backend-focused software engineer and AI enthusiast, passionate about building useful tools with strong architecture and a touch of creativity.
 
-I recently built [**Selfai**](https://www.selfai.tech) — a document-trained AI widget that helps people showcase their story through a personalized, embeddable chatbot. It’s live, running on my portfolio, and being used today.
+I recently built [**Selfai**](https://www.selfai.tech) — a document-trained AI platform that helps people showcase their story through a personalized, embeddable chatbot. It’s live, running on my portfolio, and being used today.
 
-I'm especially interested in backend systems, AI/LLM infrastructure, developer tools, and products that empower others to express themselves through code.
+I'm especially interested in frontend & backend systems, AI/LLM infrastructure, developer tools, and products that empower others to express themselves through code.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python | JavaScript | TypeScript | SQL  
-- **Frameworks:** FastAPI | Node.js | Next.js | React | Express.js  
-- **Databases:** PostgreSQL | MongoDB | Redis | Pinecone  
+- **Languages:** Python | Java | JavaScript | TypeScript | SQL | HTML/CSS
+- **Frameworks:** FastAPI | SpringBoot | Node.js | Next.js | React | Express.js  
+- **Databases:** PostgreSQL | MongoDB | Redis | Pinecone | MySQL
 - **ML/AI:** OpenAI | LangChain | TensorFlow | Scikit-learn  
 - **Infra:** Docker | AWS | Jenkins | GitHub Actions | Vercel | Render  
 
@@ -32,7 +32,7 @@ I'm especially interested in backend systems, AI/LLM infrastructure, developer t
 ### ✨ [SelfAI](https://www.selfai.tech) 
 > Document-trained, embeddable AI widget  
 Tech: Python · Typescript · FastAPI · Pinecone · LangChain · RAG · Next.js · TailwindCSS  
-➡️ Live on: [selfai.tech](https://www.selfai.tech)
+➡️ Live on: [selfai.tech](https://selfai.tech)
 
 ### 🦾 Smart Glasses for the Visually Impaired  
 > An IoT + AI-powered wearable that assists blind users through object detection and voice feedback.  
