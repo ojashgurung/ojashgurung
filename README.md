@@ -1,68 +1,49 @@
-# Hi, I'm Ojash Gurung 👋
+# Ojash Gurung
+**Founding Engineer & Acting CTO @ VeraAI**
 
-🎓 International MS CS student @ Monroe University  
-🧠 Software Engineer (Backend + AI) | Builder of [SelfAI](https://www.selfai.tech)
-<br>🌏 Originally from Nepal | Currently in New York  
-💼 Open to internships and full-time SWE opportunities
+AI/ML Engineer specializing in RAG systems, Computer Vision, and production-ready full-stack applications.
 
----
+## Highlights
 
-## 🚀 About Me
+Leading 16-person engineering team building AI-powered remodeling platform ($527B market)
 
-I’m a backend-focused software engineer and AI enthusiast, passionate about building useful tools with strong architecture and a touch of creativity.
+Built [SelfAI](https://selfai.tech), a RAG-based chatbot platform where users train personal AI assistants and embed them on websites. Reduced query latency by 87% (15s to 2s) and currently serving 20+ users.
 
-I recently built [**Selfai**](https://www.selfai.tech) — a document-trained AI platform that helps people showcase their story through a personalized, embeddable chatbot. It’s live, running on my portfolio, and being used today.
+Trained AI models on 1,400+ NKBA guidelines, achieving 80-90%+ accuracy across computer vision and retrieval pipelines.
 
-I'm especially interested in frontend & backend systems, AI/LLM infrastructure, developer tools, and products that empower others to express themselves through code.
+Developed 20+ banking APIs at SimplySoft Tech, optimizing performance by 15% and offloading 70% of auth requests through microservices.
 
----
+MS in Computer Science, Monroe University (Expected 2026)
 
-## 🛠 Tech Stack
+## Core Technologies
+```python
+skills = {
+    "AI/ML": ["RAG", "OpenAI GPT-4", "OwlVIT", "YOLOv8", "Weaviate", "Pinecone", "Computer Vision"],
+    "Backend": ["FastAPI", "Spring Boot", "Express", "PostgreSQL", "Redis", "Firebase"],
+    "Frontend": ["Next.js", "React", "Three.js", "TailwindCSS"],
+    "DevOps": ["Docker", "Kubernetes", "AWS", "GCP", "GitHub Actions", "Jenkins"]
+}
+```
 
-- **Languages:** Python | Java | JavaScript | TypeScript | SQL | HTML/CSS
-- **Frameworks:** FastAPI | SpringBoot | Node.js | Next.js | React | Express.js  
-- **Databases:** PostgreSQL | MongoDB | Redis | Pinecone | MySQL
-- **ML/AI:** OpenAI | LangChain | TensorFlow | Scikit-learn  
-- **Infra:** Docker | AWS | Jenkins | GitHub Actions | Vercel | Render  
+## Featured Work
 
----
+**[SelfAI](https://selfai.tech)** (Private Production Repo)  
+Full-stack RAG chatbot platform enabling users to train AI assistants on personal documents and deploy as embeddable widgets. Built with FastAPI, Next.js, OpenAI GPT-4, Pinecone vector database, and PostgreSQL.
 
-## 🔗 Featured Projects
+**VeraAI Platform**  
+AI-powered remodeling design and sales platform. Architected entire tech stack including RAG system processing 600+ catalog products, object detection pipeline with OwlVIT, and containerized Docker infrastructure.
 
-### ✨ [SelfAI](https://www.selfai.tech) 
-> Document-trained, embeddable AI widget  
-Tech: Python · Typescript · FastAPI · Pinecone · LangChain · RAG · Next.js · TailwindCSS  
-➡️ Live on: [selfai.tech](https://selfai.tech)
+**Banking APIs**  
+20+ secure RESTful endpoints for financial institutions handling authentication, transactions, and OTP verification using Spring Boot and PostgreSQL.
 
-### 🦾 Smart Glasses for the Visually Impaired  
-> An IoT + AI-powered wearable that assists blind users through object detection and voice feedback.  
-Tech: Python · TensorFlow · OpenCV · gTTS · Raspberry Pi  
-- Built a real-time object recognition pipeline using computer vision  
-- Translates detections into spoken feedback using gTTS  
-- Awarded **Best IoT Project** at IoT Expo 2021  
-🎥 [Demo on YouTube](https://www.youtube.com/watch?v=GX_AfxdekKQ&ab_channel=Ojash)
+## Current Focus
 
-### 💬 [ChatAppX](https://github.com/ojasggg/ChatAppX)  
-> Real-time chat app with WebSockets + OAuth  
-Tech: Typescript · Node.js · Express · Next.js · MongoDB  
-- Google OAuth login + secure chat sessions  
-- Fully real-time via WebSocket connection  
-- Designed with minimal, accessible UI
-- Live on: [ChatAppX](https://github.com/ojasggg/ChatAppX)  
+Building production AI systems with RAG and computer vision  
+Leading technical architecture and team management  
+Open to New Grad 2026 full-time opportunities in AI/ML Engineering
 
----
+## Contact
 
-## 📫 Reach Me
-
-- 📧 Email: [gurungojash0@gmail.com](mailto:gurungojash0@gmail.com)  
-- 🌐 Portfolio: [ojashgurung.com.np](https://www.ojashgurung.com.np)  
-- 📄 Resume: [Download PDF](https://ojashgurung.com.np/files/Ojash_Gurung_Resume.pdf)  
-- 🔗 LinkedIn: [linkedin.com/in/ojash-gurung](https://linkedin.com/in/ojash-gurung)
-
----
-
-## ❤️ Fun Facts
-
-- I built SelfAI out of a desire to help people like myself break the ice while networking and reaching out.
-- I’m obsessed with design flow — I’ll rework it a dozen times if it doesn’t *feel right*.
-- I love tackling problems, debugging, clean architecture, and meaningful conversations (even if with AI!)
+Portfolio: [ojashgurung.com.np](https://ojashgurung.com.np)  
+LinkedIn: [linkedin.com/in/ojashgurung](https://linkedin.com/in/ojashgurung)  
+Email: gurungojash0@gmail.com
